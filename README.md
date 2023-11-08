@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Parallax Scrolling Website
 
 This project is a simple parallax scrolling website created using HTML and CSS. It features a visually appealing parallax effect and sections that describe various adventure activities. This README provides an overview of the project and its structure.
@@ -21,10 +20,3 @@ You can customize the project by:
 - Adjusting the styles in the CSS file (styles.css) to change the appearance of the website.
 
 Feel free to make the project your own by adding new sections or content as well.
-=======
-## Parallax-Webpage
-- This is my first HTML-CSS project. 
-- From this little project I am starting my web dev journey.
-- With the help of this code,One may get an basic idea of dealing with multiple indexes while developing a web page.
-
->>>>>>> d34b75fba77344596355f5762b18b561b9447145
